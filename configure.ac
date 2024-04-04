@@ -698,6 +698,8 @@ lib/python/Plugins/SystemPlugins/WirelessLan/Makefile
 lib/python/Plugins/SystemPlugins/WirelessLan/meta/Makefile
 lib/python/Plugins/SystemPlugins/SkinSelector/Makefile
 lib/python/Plugins/SystemPlugins/SkinSelector/meta/Makefile
+lib/python/Plugins/SystemPlugins/VFD-Icons/Makefile
+lib/python/Plugins/SystemPlugins/VFD-Icons/meta/Makefile
 lib/python/Tools/Makefile
 po/Makefile
 main/Makefile
